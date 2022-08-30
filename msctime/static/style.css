@@ -1,0 +1,9 @@
+body {
+    background-image: url('https://wallpaperaccess.com/full/372581.jpg');
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    color: white;
+    font-size: 30px;
+}
